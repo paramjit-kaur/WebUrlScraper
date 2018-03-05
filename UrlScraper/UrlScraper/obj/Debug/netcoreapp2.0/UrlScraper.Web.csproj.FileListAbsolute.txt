@@ -1,0 +1,13 @@
+F:\UrlScraper\UrlScraper\bin\Debug\netcoreapp2.0\UrlScraper.Application.dll
+F:\UrlScraper\UrlScraper\obj\Debug\netcoreapp2.0\UrlScraper.Web.csprojResolveAssemblyReference.cache
+F:\UrlScraper\UrlScraper\obj\Debug\netcoreapp2.0\UrlScraper.Web.csproj.CoreCompileInputs.cache
+F:\UrlScraper\UrlScraper\obj\Debug\netcoreapp2.0\UrlScraper.Web.AssemblyInfoInputs.cache
+F:\UrlScraper\UrlScraper\obj\Debug\netcoreapp2.0\UrlScraper.Web.AssemblyInfo.cs
+F:\UrlScraper\UrlScraper\bin\Debug\netcoreapp2.0\UrlScraper.Web.deps.json
+F:\UrlScraper\UrlScraper\bin\Debug\netcoreapp2.0\UrlScraper.Web.runtimeconfig.json
+F:\UrlScraper\UrlScraper\bin\Debug\netcoreapp2.0\UrlScraper.Web.runtimeconfig.dev.json
+F:\UrlScraper\UrlScraper\bin\Debug\netcoreapp2.0\UrlScraper.Web.dll
+F:\UrlScraper\UrlScraper\bin\Debug\netcoreapp2.0\UrlScraper.Web.pdb
+F:\UrlScraper\UrlScraper\bin\Debug\netcoreapp2.0\UrlScraper.Application.pdb
+F:\UrlScraper\UrlScraper\obj\Debug\netcoreapp2.0\UrlScraper.Web.dll
+F:\UrlScraper\UrlScraper\obj\Debug\netcoreapp2.0\UrlScraper.Web.pdb

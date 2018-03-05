@@ -1,0 +1,11 @@
+F:\UrlScraper\Application\bin\Debug\netcoreapp2.0\UrlScraper.Application.deps.json
+F:\UrlScraper\Application\bin\Debug\netcoreapp2.0\UrlScraper.Application.dll
+F:\UrlScraper\Application\bin\Debug\netcoreapp2.0\UrlScraper.Application.pdb
+F:\UrlScraper\Application\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\UrlScraper\Application\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+F:\UrlScraper\Application\obj\Debug\netcoreapp2.0\UrlScraper.Application.csproj.CoreCompileInputs.cache
+F:\UrlScraper\Application\obj\Debug\netcoreapp2.0\UrlScraper.Application.AssemblyInfoInputs.cache
+F:\UrlScraper\Application\obj\Debug\netcoreapp2.0\UrlScraper.Application.AssemblyInfo.cs
+F:\UrlScraper\Application\obj\Debug\netcoreapp2.0\UrlScraper.Application.dll
+F:\UrlScraper\Application\obj\Debug\netcoreapp2.0\UrlScraper.Application.pdb
+F:\UrlScraper\Application\obj\Debug\netcoreapp2.0\UrlScraper.Application.csprojResolveAssemblyReference.cache

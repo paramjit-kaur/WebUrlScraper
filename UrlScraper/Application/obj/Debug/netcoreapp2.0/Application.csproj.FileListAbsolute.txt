@@ -1,0 +1,10 @@
+F:\UrlScraper\Application\bin\Debug\netcoreapp2.0\Application.deps.json
+F:\UrlScraper\Application\bin\Debug\netcoreapp2.0\Application.dll
+F:\UrlScraper\Application\bin\Debug\netcoreapp2.0\Application.pdb
+F:\UrlScraper\Application\obj\Debug\netcoreapp2.0\Application.csproj.CoreCompileInputs.cache
+F:\UrlScraper\Application\obj\Debug\netcoreapp2.0\Application.AssemblyInfoInputs.cache
+F:\UrlScraper\Application\obj\Debug\netcoreapp2.0\Application.AssemblyInfo.cs
+F:\UrlScraper\Application\obj\Debug\netcoreapp2.0\Application.dll
+F:\UrlScraper\Application\obj\Debug\netcoreapp2.0\Application.pdb
+F:\UrlScraper\Application\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\UrlScraper\Application\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml

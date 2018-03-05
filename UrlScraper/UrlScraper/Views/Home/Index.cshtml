@@ -1,0 +1,8 @@
+﻿@model UrlScraper.Web.ViewModel.ResultDataViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="row">
+    @{ Html.RenderPartial("_SearchResultPartial", Model); }
+</div>
+
